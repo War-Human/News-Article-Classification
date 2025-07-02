@@ -45,6 +45,19 @@ The primary objective of this project is to build a **text classification model*
 - Conduct **exploratory data analysis (EDA)** to:
   - Check class balance
   - Visualize keyword frequency by category
+![image](https://github.com/user-attachments/assets/a285ca73-8f3b-4407-b05c-b35011d97a58)
+
+
+![image](https://github.com/user-attachments/assets/73afb967-8efd-425f-9bcf-d8c4d554c1a3)
+
+
+![image](https://github.com/user-attachments/assets/bd9224d5-243f-46d8-9025-61b5e61831b9)
+
+
+![image](https://github.com/user-attachments/assets/63d722e4-a030-4d55-b513-59eb99fd2bc9)
+
+![image](https://github.com/user-attachments/assets/253849d5-13fa-4a04-82ef-839249f31329)
+
 
 ### 3. ⚙️ Model Development and Training
 - Build classification models using:
